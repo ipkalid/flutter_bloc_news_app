@@ -75,7 +75,7 @@ To run the app locally, please follow these steps:
 
 Once the app is installed and running, you can navigate through the headlines by scrolling on the home screen. When you find an article you are interested in, tap on it to open the full article in a web view.
 
-Feel free to explore the codebase to understand the implementation details of the BLoC pattern, API integration, and Get_it integration. Make modifications, experiment with different features, and customize the app according to your needs.
+Feel free to explore the codebase to understand the implementation details of the BLoC pattern, API integration, and Get_it for dependency injection. Make modifications, experiment with different features, and customize the app according to your needs.
 
 ## Dependencies
 
@@ -85,6 +85,7 @@ The app relies on the following dependencies:
 - [http](https://pub.dev/packages/http) - A package for making HTTP requests to the New York Times API.
 - [url_launcher](https://pub.dev/packages/url_launcher) - A package for launching URLs.
 - [http](https://pub.dev/packages/http) - The HTTP client for Dart that supports various request features.
+- [get_it](https://pub.dev/packages/get_it): A simple service locator for dependency injection.
 
 For more details on the exact versions used, please refer to the pubspec.yaml file.
 These dependencies are automatically resolved and fetched from the Dart package repository (pub.dev) during the installation process.
