@@ -1,4 +1,4 @@
-# Flutter News App with BLoC and Git Integration
+# Flutter News App with BLoC and Get_it for Dependency Injection
 
 This repository contains a Flutter app that demonstrates how to use the BLoC (Business Logic Component) pattern and integrate Git for version control. The app utilizes the New York Times API to fetch the most popular news articles. It consists of a single screen that displays the news headlines, and when a user taps on a headline, it launches a web view displaying the corresponding news article.
 
